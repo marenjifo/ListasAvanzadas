@@ -17,6 +17,12 @@
         android:text="GENERAR NOTICIA RANDOM"
         android:id="@+id/btn_generar"/>
 
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GENERO"
+        android:checked="true"/>
+
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
